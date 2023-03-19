@@ -1,0 +1,1 @@
+# Practice-home-Lab-02-Primitive-Datatypes-in-Javascript
